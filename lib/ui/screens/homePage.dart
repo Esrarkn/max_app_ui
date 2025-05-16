@@ -7,8 +7,8 @@ import 'package:max_ui/ui/widgets/contentSlider.dart';
 
 class HomePage extends StatelessWidget {
   final List<Content> highlights = [
-    Content( 'assets/images/prens2.webp'),
-    Content( 'assets/images/thelostofus.webp'),
+    Content( 'assets/images/prensposter.webp'),
+    Content( 'assets/images/thelastofus.webp'),
     Content('assets/images/got.webp'),
     Content( 'assets/images/sopranos.webp'),
   ];
